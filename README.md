@@ -6,7 +6,7 @@
 
 ## :computer: Usage
 
-1. Clone the repository: `git clone https://github.com/<username>/SMS.git`
+1. Clone the repository: `git clone https://github.com/ripgamer/SMS.git`
 2. Navigate to the project directory: `cd SMS`
 3. Compile the program: `gcc sms.c -o sms`
 4. Run the program: `./sms`
